@@ -1,0 +1,33 @@
+#contenedor1{
+    width: 40%;
+    padding: 2%;
+    background-color: aquamarine;
+    float: left;
+    height: 600px;
+}
+
+#contenedor2{
+    width: 40%;
+    padding: 2%;
+    background-color: rgb(165, 255, 127);
+    float: right;
+    height: 600px;
+}
+
+.rot_0{
+    transform: rotate(0deg);
+}
+.rot_90{
+    transform: rotate(90deg);
+}
+.rot_180{
+    transform: rotate(180deg);
+}
+.rot_270{
+    transform: rotate(270deg);
+}
+
+img{   
+    border: 1px solid red;
+    width: 100%;
+}
